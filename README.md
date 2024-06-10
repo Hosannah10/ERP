@@ -1,7 +1,4 @@
 
-
-[![License](https://img.shields.io/github/license/username/erp-os.svg?style=flat-square)](https://github.com/username/erp-os/blob/master/LICENSE)
-
 This setup guide is for setting up the ERP OS application in a local development environment. You can also host this application on various cloud hosting providers such as AWS, GCP, AZURE, DigitalOcean, Heroku, Netlify, Vercel, Render, etc.
 
 ## Table of Contents
