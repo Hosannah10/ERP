@@ -1,4 +1,4 @@
-# SAI I LAMA - Installation Guide
+
 
 [![License](https://img.shields.io/github/license/username/erp-os.svg?style=flat-square)](https://github.com/username/erp-os/blob/master/LICENSE)
 
@@ -106,11 +106,3 @@ The Elegant Dashboard Design includes the following features and functionalities
 - Download data as CSV
 - Product search
 
-
-## Collaboration
-
-Contributions to this project are welcome! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more information.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
