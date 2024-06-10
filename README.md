@@ -8,8 +8,7 @@ This setup guide is for setting up the ERP OS application in a local development
 - [Backend (Express/Node.js)](#backend-expressnodejs)
 - [Frontend (React.js)](#frontend-reactjs)
 - [Features and Functionalities](#Features-and-Functionalities)
-- [Collaboration](#collaboration)
-- [License](#license)
+
 
 ## Prerequisites
 
